@@ -25,7 +25,7 @@ function Contact() {
 
           <a
             href="mailto:aliabbas2603@gmail.com"
-            className="bg-blue-600 text-white px-8 py-3 rounded-x1 hover:bg-blue-700 transition"
+            className="bg-blue-600 text-white px-8 py-3 rounded-xl hover:bg-blue-700 transition"
           >
             Email Me
           </a>
@@ -34,7 +34,7 @@ function Contact() {
             href="https://linkedin.com/in/aliabbasgazge"
             target="_blank"
             rel="noreferrer"
-            className="border border-blue-600 text-blue-600 px-8 py-3 rounded-x1 hover:bg-blue-600 hover:text-white transition"
+            className="border border-blue-600 text-blue-600 px-8 py-3 rounded-xl hover:bg-blue-600 hover:text-white transition"
           >
             LinkedIn
           </a>
