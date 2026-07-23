@@ -29,7 +29,7 @@ const projects = [
       "Jetpack Compose",
     ],
 
-    github: "YOUR_GITHUB_LINK",
+    github: "https://github.com/AliAbbas160/Offline-Disaster-Kit",
 
     demo: "",
   },
